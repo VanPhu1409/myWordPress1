@@ -5,11 +5,11 @@
 	<title>Đăng nhập &lsaquo; LuongVanPhu &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://vanphu1409.github.io/myWordPress1/wp-includes/css/dashicons.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://vanphu1409.github.io/myWordPress1/wp-includes/css/buttons.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="forms-css" href="https://vanphu1409.github.io/myWordPress1/wp-admin/css/forms.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://vanphu1409.github.io/myWordPress1/wp-admin/css/l10n.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="login-css" href="https://vanphu1409.github.io/myWordPress1/wp-admin/css/login.min.css?ver=6.0.2" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://vanphu1409.github.io/myWordPress1/wp-includes/css/dashicons.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://vanphu1409.github.io/myWordPress1/wp-includes/css/buttons.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="forms-css" href="https://vanphu1409.github.io/myWordPress1/wp-admin/css/forms.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://vanphu1409.github.io/myWordPress1/wp-admin/css/l10n.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="login-css" href="https://vanphu1409.github.io/myWordPress1/wp-admin/css/login.min.css?ver=6.0.3" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -93,14 +93,14 @@ var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rấ
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2022-08-03 11:30:24+0000","generator":"GlotPress\/4.0.0-alpha.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script src="https://vanphu1409.github.io/myWordPress1/wp-admin/js/password-strength-meter.min.js?ver=6.0.2" id="password-strength-meter-js"></script>
+<script src="https://vanphu1409.github.io/myWordPress1/wp-admin/js/password-strength-meter.min.js?ver=6.0.3" id="password-strength-meter-js"></script>
 <script src="https://vanphu1409.github.io/myWordPress1/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">
 var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src="https://vanphu1409.github.io/myWordPress1/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
+<script src="https://vanphu1409.github.io/myWordPress1/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"9ee1f353b4"};
+var userProfileL10n = {"user_id":"0","nonce":"b087f1b5c7"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
@@ -109,7 +109,7 @@ var userProfileL10n = {"user_id":"0","nonce":"9ee1f353b4"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2022-08-03 11:30:24+0000","generator":"GlotPress\/4.0.0-alpha.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Hide":["Ẩn đi"],"Show":["Hiển thị"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script src="https://vanphu1409.github.io/myWordPress1/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
+<script src="https://vanphu1409.github.io/myWordPress1/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>

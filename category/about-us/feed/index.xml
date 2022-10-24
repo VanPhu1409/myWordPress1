@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://vanphu1409.github.io/myWordPress1/2022/09/06/chao-moi-nguoi/</link>
-					<comments>https://vanphu1409.github.io/myWordPress1/2022/09/06/chao-moi-nguoi/#comments</comments>
+		<link>https://vanphu1409.github.io/myWordPress1/chao-moi-nguoi/</link>
+					<comments>https://vanphu1409.github.io/myWordPress1/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[LuongVanPhu]]></dc:creator>
 		<pubDate>Tue, 06 Sep 2022 05:49:14 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://vanphu1409.github.io/myWordPress1/2022/09/06/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://vanphu1409.github.io/myWordPress1/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
